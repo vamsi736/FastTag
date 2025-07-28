@@ -1,0 +1,15 @@
+﻿<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>FastTag</Name>
+		<Assembly>FastTag\FastTag.dll</Assembly>
+		<AddInId>C1086322-70F2-4FFD-871C-CD9B40824589</AddInId>
+		<FullClassName>FastTag.Application</FullClassName>
+		<VendorId>Development</VendorId>
+		<VendorDescription>Fast dimension tagging add-in</VendorDescription>
+		<VendorEmail></VendorEmail>
+	</AddIn>
+	<ManifestSettings>
+		<UseRevitContext>False</UseRevitContext>
+		<ContextName>FastTag</ContextName>
+	</ManifestSettings>
+</RevitAddIns>
